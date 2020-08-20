@@ -1,0 +1,18 @@
+{
+  "onboardingConfig": {
+    "deviceOnboardingId": "JevDrapes",
+    "mnId": "0ArL",
+    "setupId": "138",
+    "vid": "JEVD1",
+    "deviceTypeId": "Blind",
+    "ownershipValidationTypes": [
+      "JUSTWORKS"
+    ],
+    "identityType": "ED25519",
+    "deviceIntegrationProfileKey": {
+      "id": "d61485d2-2d12-4b79-b88f-8ca2cc4c3343",
+      "majorVersion": 0,
+      "minorVersion": 1
+    }
+  }
+}

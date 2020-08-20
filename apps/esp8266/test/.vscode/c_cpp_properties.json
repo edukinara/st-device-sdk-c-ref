@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "${IDF_PATH}/../../bsp/esp8266/**"
+      ],
+      "defines": []
+    }
+  ],
+  "version": 4
+}

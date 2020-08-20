@@ -1,0 +1,4 @@
+ota_data_initial.bin : 0xd000
+bootloader.bin : 0x0000
+wemos_drapes.bin : 0x10000
+partition.bin : 0x8000

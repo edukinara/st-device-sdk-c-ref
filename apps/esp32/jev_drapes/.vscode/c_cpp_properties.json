@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${IDF_PATH}/../../iot-core/**",
+                "${IDF_PATH}/../../bsp/esp32_v3.3/**"
+            ],
+            "defines": [],
+            "compileCommands": "/home/edu/st-device-sdk-c-ref/apps/esp32/jev_drapes/build/compile_commands.json"
+        }
+    ],
+    "version": 4
+}
